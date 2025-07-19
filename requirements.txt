@@ -1,0 +1,4 @@
+# WeatherVine 天气数据采集系统依赖
+mysql-connector-python==8.1.0      # MySQL数据库连接
+requests==2.31.0                   # HTTP请求库
+PyYAML==6.0.1                      # YAML配置文件解析
